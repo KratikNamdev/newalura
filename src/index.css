@@ -88,6 +88,7 @@ nav button:hover{
   border: 1px solid white;
   margin-top: 46px;
 
+  color: #798543;
 
   border: none;
   font-family: "Inter", serif;
@@ -558,6 +559,7 @@ margin-bottom: 30px;
   font-size:16px;
   font-weight: 400;
   margin-top: 56px;
+  color: #798543;
 }
 
 .GetStartedNow{

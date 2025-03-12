@@ -65,7 +65,7 @@ function Home() {
 
     <h3>Transform Your Mind and<br/> Body with Daily Yoga</h3>
     <br/>
-    <button>Book A Class</button>
+    <button >Book A Class</button>
 
     </div>
     <div className='SERVICES-home'>
